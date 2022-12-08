@@ -1,0 +1,22 @@
+.button{
+    width: 100%;
+    background-color: hotpink;
+    padding: 0.8rem 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+.button:hover{
+    width: 100%;
+    background-color: rgb(253, 66, 159);
+    padding: 0.8rem 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.button p{
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}

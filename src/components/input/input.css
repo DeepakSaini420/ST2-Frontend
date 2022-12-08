@@ -1,0 +1,14 @@
+.input{
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid rgb(177, 171, 171);
+    padding: 0.7rem 0.3rem;
+    transition: all 0.2s ease-in-out;
+}
+.input:focus{
+    outline: none;
+    border: 1px solid rgb(87, 85, 85);
+}
+p{
+ color: rgb(87, 85, 85);   
+}

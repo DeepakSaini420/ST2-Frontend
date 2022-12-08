@@ -1,0 +1,19 @@
+.homepage-component{
+    width: 550px;
+    height: 40vh;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-top: 35px;
+    cursor: pointer;
+}
+.img-container{
+    position: relative;
+    width: 550;
+    height: 25vh;
+}
+.img-container img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}

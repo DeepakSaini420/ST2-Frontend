@@ -1,0 +1,22 @@
+.sucess{
+    background-color: rgb(85, 224, 85);
+    border-radius: 5px;
+    padding: 1rem;
+    position: absolute;
+    top: 12px;
+}
+.sucess p{
+    color: #ffffff;
+    font-weight: bold;
+}
+.failed{
+    background-color: rgb(232, 86, 86);
+    border-radius: 5px;
+    padding: 1rem;
+    position: absolute;
+    top: 12px;
+}
+.failed p{
+    color: #ffffff;
+    font-weight: bold;
+}
